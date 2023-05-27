@@ -1,0 +1,80 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+}
+
+body {
+    background-color: rgb(40, 207, 207);
+   padding: 100px 0;
+}
+
+.wrapper {
+
+    width: 380px;
+    /* height: 380px; */
+    margin: auto;
+    border: 1 px solid grey;
+    border-radius: 18px;
+
+    border: 1px solid rgb(43, 65, 76);
+}
+
+.cover {
+    background-color: rgb(43, 65, 76);
+
+    height: 160px;
+
+    /* border-radius: 10px; */
+}
+
+.cover {
+    background-color: aqua;
+
+}
+
+.circle {
+    width: 155px;
+    height: 155px;
+    margin: auto;
+    border-radius: 50%;
+    border: 3px solid white;
+    position: relative;
+    top: -90px;
+}
+
+.circle h2 {
+    width: 300px;
+    padding-top: 20px;
+}
+
+.circle h4 {
+    text-align: center;
+    font-weight: normal;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.something {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.id-section {
+    background-color: white;
+    /* border-radius: 10px; */
+
+}
+span{
+    font-weight: normal;
+}
+a{
+   text-decoration: none;
+}
